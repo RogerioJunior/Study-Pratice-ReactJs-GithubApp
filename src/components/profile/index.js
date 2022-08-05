@@ -10,7 +10,7 @@ const Profile = () => {
                     <h1>Name User</h1>
                     <S.WrapperUsername>
                         <h3>Username:</h3>
-                        <span>username</span>
+                        <a href='https://google.com' target='_blank' rel='noopener noreferrer'>username</a>
                     </S.WrapperUsername>
                 </div>
                 <S.WrapperStatusCount>
